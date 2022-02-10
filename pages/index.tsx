@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="flex min-h-screen flex-col items-center justify-center py-2" >
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
@@ -80,6 +80,7 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className="ml-2 h-4" />
         </a>
       </footer>
-    </div>
+    
+</div>
   )
 }
