@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Head from 'next/head';
 
-function test(){
+export default function app(){
  return <>
    <Head>
      <title>Test my app</title>
