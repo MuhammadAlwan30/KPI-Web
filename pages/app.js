@@ -16,5 +16,6 @@ export default function app(){
            Home
         </div>
      </div>
+     <Footer />
    </>
 }
