@@ -34,7 +34,7 @@ const Footer = () => {
   </div>
 
     </div>
-    <span className="text-center m-auto font-sans"> Copyright &copy;{copyrightYear}</span>
+    <span className="text-center m-auto block font-sans"> Copyright &copy;{copyrightYear}</span>
   </footer>
  )
 }
