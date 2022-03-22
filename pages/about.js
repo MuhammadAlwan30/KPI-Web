@@ -3,7 +3,7 @@ import Footer from '../components/Footer'
 
 export default function About(){
     return(
-        <div>
+        <div className="w-full h-full bg-white">
             <Footer />
         </div>
     )
