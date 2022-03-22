@@ -33,8 +33,8 @@ const Footer = () => {
   </label>
   </div>
 
-      Copyright &copy;{copyrightYear}
     </div>
+    <span className="text-center font-sans"> Copyright &copy;{copyrightYear}</span>
   </footer>
  )
 }
