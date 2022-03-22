@@ -1,6 +1,6 @@
 import react from "react";
 
-export default const Header = () => {
+ export default function Header() {
    return(
     <header className="bg-violet-300 flex justify-center items-center flex-row w-full h-20">
     <nav className="flex-row">
