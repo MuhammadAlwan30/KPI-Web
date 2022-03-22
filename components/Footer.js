@@ -4,10 +4,10 @@ const copyrightYear = new Date().getFullYear();
 
 const Footer = () => {
  return (
-  <footer classNameName="bg-violet-500 h-80 rounded-t-md">
-    <div classNameName="flex justify-center items-center w-full flex-col sm:flex-row">
-    <div classNameName="flex w-full flex-col sm:flex-row">
-    <div classNameName="m-5 p-4"><span className="font-semibold">Overview</span>
+  <footer className="bg-violet-500 h-80 rounded-t-md">
+    <div className="flex justify-center items-center w-full flex-col sm:flex-row">
+    <div className="flex w-full flex-col sm:flex-row">
+    <div className="m-5 p-4"><span className="font-semibold">Overview</span>
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Quest</a></li>
@@ -21,7 +21,7 @@ const Footer = () => {
         <li><a href="#">Discord</a></li>
       </ul>
     </div>
-    <div classNameName="m-5 p-4"><span className="font-semibold">Explore</span>
+    <div className="m-5 p-4"><span className="font-semibold">Explore</span>
       <ul>
         <li><a href="#">Terms and conds</a></li>
         <li><a href="#">Privacy policy</a></li>
