@@ -29,7 +29,7 @@ const Footer = () => {
       </ul>
     </div>
       <label for="email" className="mt-8 mx-auto">Email
-    <input type="email" name="email" id="email" placeholder="input your email" className="placeholder:italic focus:ring-4 border-emerald-300 block rounded-lg h-14 w-96 text-center ">
+    <input type="email" name="email" id="email" placeholder="input your email" className="placeholder:italic focus:ring-4 border-emerald-300 block rounded-lg h-14 w-96 text-center " />
   </label>
   </div>
 
